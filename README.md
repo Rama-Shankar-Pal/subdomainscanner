@@ -1,5 +1,9 @@
 # SubdomainScanner
-# Gather DNS information, it collects data about Domain Name Servers and canonical name (cname ). It is helpful to finding dangled subdomain(Vulnerable domain).
+
+Gather DNS information, it collects data about Domain Name Servers and canonical name (cname ). It is helpful to finding dangled subdomain(Vulnerable domain).
+
+![starbucks vulnerable domain](url)
+
 
 How to used it?
 
